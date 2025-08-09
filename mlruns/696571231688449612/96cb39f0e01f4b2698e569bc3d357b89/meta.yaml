@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/anura/OneDrive/Desktop/MLOPS/MLOPS-MLFlow-Experiments/mlruns/696571231688449612/96cb39f0e01f4b2698e569bc3d357b89/artifacts
+end_time: 1754748633841
+entry_point_name: ''
+experiment_id: '696571231688449612'
+lifecycle_stage: active
+run_id: 96cb39f0e01f4b2698e569bc3d357b89
+run_name: casual-worm-262
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754748633771
+status: 3
+tags: []
+user_id: anura

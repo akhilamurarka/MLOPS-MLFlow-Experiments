@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/anura/OneDrive/Desktop/MLOPS/MLOPS-MLFlow-Experiments/mlruns/696571231688449612/124c6a3e2de14dc7a83d3f0cc7ce9685/artifacts
+end_time: 1754748633766
+entry_point_name: ''
+experiment_id: '696571231688449612'
+lifecycle_stage: active
+run_id: 124c6a3e2de14dc7a83d3f0cc7ce9685
+run_name: righteous-smelt-618
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754748633703
+status: 3
+tags: []
+user_id: anura

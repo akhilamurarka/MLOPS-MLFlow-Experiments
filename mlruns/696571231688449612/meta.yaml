@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/anura/OneDrive/Desktop/MLOPS/MLOPS-MLFlow-Experiments/mlruns/696571231688449612
+creation_time: 1754748625632
+experiment_id: '696571231688449612'
+last_update_time: 1754748625632
+lifecycle_stage: active
+name: breast-cancer-rf-hp

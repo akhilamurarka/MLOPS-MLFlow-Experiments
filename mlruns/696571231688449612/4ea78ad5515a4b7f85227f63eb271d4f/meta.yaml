@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/anura/OneDrive/Desktop/MLOPS/MLOPS-MLFlow-Experiments/mlruns/696571231688449612/4ea78ad5515a4b7f85227f63eb271d4f/artifacts
+end_time: 1754748633912
+entry_point_name: ''
+experiment_id: '696571231688449612'
+lifecycle_stage: active
+run_id: 4ea78ad5515a4b7f85227f63eb271d4f
+run_name: fortunate-crane-230
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754748633847
+status: 3
+tags: []
+user_id: anura

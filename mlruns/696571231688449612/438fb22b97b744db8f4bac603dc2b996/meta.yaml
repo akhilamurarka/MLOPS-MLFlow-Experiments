@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/anura/OneDrive/Desktop/MLOPS/MLOPS-MLFlow-Experiments/mlruns/696571231688449612/438fb22b97b744db8f4bac603dc2b996/artifacts
+end_time: 1754748633563
+entry_point_name: ''
+experiment_id: '696571231688449612'
+lifecycle_stage: active
+run_id: 438fb22b97b744db8f4bac603dc2b996
+run_name: painted-pig-956
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754748633498
+status: 3
+tags: []
+user_id: anura

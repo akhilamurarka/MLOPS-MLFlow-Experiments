@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/anura/OneDrive/Desktop/MLOPS/MLOPS-MLFlow-Experiments/mlruns/696571231688449612/db65ec23cfea48cd844094bebb3221cd/artifacts
+end_time: 1754748633986
+entry_point_name: ''
+experiment_id: '696571231688449612'
+lifecycle_stage: active
+run_id: db65ec23cfea48cd844094bebb3221cd
+run_name: defiant-donkey-988
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754748633916
+status: 3
+tags: []
+user_id: anura

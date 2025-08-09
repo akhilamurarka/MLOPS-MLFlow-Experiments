@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/anura/OneDrive/Desktop/MLOPS/MLOPS-MLFlow-Experiments/mlruns/696571231688449612/5e2a2d0e1e7f4897a3880e8ced9bf7dc/artifacts
+end_time: 1754748642328
+entry_point_name: ''
+experiment_id: '696571231688449612'
+lifecycle_stage: active
+run_id: 5e2a2d0e1e7f4897a3880e8ced9bf7dc
+run_name: polite-skunk-409
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754748626380
+status: 3
+tags: []
+user_id: anura

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/anura/OneDrive/Desktop/MLOPS/MLOPS-MLFlow-Experiments/mlruns/696571231688449612/cd4067d64b184b96865f532ba7e55e03/artifacts
+end_time: 1754748634237
+entry_point_name: ''
+experiment_id: '696571231688449612'
+lifecycle_stage: active
+run_id: cd4067d64b184b96865f532ba7e55e03
+run_name: thoughtful-sloth-558
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754748634158
+status: 3
+tags: []
+user_id: anura

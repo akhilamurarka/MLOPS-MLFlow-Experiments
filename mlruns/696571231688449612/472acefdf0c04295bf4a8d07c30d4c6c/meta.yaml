@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/anura/OneDrive/Desktop/MLOPS/MLOPS-MLFlow-Experiments/mlruns/696571231688449612/472acefdf0c04295bf4a8d07c30d4c6c/artifacts
+end_time: 1754748633492
+entry_point_name: ''
+experiment_id: '696571231688449612'
+lifecycle_stage: active
+run_id: 472acefdf0c04295bf4a8d07c30d4c6c
+run_name: grandiose-boar-787
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754748633408
+status: 3
+tags: []
+user_id: anura

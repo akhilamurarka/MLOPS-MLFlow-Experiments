@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/anura/OneDrive/Desktop/MLOPS/MLOPS-MLFlow-Experiments/mlruns/696571231688449612/867828fe0a5c4edbbe1f899b35f7d055/artifacts
+end_time: 1754748634149
+entry_point_name: ''
+experiment_id: '696571231688449612'
+lifecycle_stage: active
+run_id: 867828fe0a5c4edbbe1f899b35f7d055
+run_name: unleashed-trout-676
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754748634077
+status: 3
+tags: []
+user_id: anura
