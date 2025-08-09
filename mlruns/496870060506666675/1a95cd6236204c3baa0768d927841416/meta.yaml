@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/496870060506666675/1a95cd6236204c3baa0768d927841416/artifacts
+end_time: 1754675512564
+entry_point_name: ''
+experiment_id: '496870060506666675'
+lifecycle_stage: active
+run_id: 1a95cd6236204c3baa0768d927841416
+run_name: tasteful-eel-547
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754675512067
+status: 3
+tags: []
+user_id: anura

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/496870060506666675/b67924e22662459280aebcfa6a6529e5/artifacts
+end_time: 1754748004638
+entry_point_name: ''
+experiment_id: '496870060506666675'
+lifecycle_stage: active
+run_id: b67924e22662459280aebcfa6a6529e5
+run_name: charming-trout-94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754747994606
+status: 3
+tags: []
+user_id: anura

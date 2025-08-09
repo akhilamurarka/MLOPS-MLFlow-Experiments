@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d84968e50bdf40568b594c155fb3e3b1/artifacts
+end_time: 1754673191803
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d84968e50bdf40568b594c155fb3e3b1
+run_name: amusing-newt-47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754673191704
+status: 3
+tags: []
+user_id: anura

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/496870060506666675/9ee60809397a4b8ebaa72e3f74371b92/artifacts
+end_time: 1754675903546
+entry_point_name: ''
+experiment_id: '496870060506666675'
+lifecycle_stage: active
+run_id: 9ee60809397a4b8ebaa72e3f74371b92
+run_name: nimble-bee-384
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754675892487
+status: 3
+tags: []
+user_id: anura

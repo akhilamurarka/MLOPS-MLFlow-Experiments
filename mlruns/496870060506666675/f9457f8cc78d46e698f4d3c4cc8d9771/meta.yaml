@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/496870060506666675/f9457f8cc78d46e698f4d3c4cc8d9771/artifacts
+end_time: 1754674966448
+entry_point_name: ''
+experiment_id: '496870060506666675'
+lifecycle_stage: active
+run_id: f9457f8cc78d46e698f4d3c4cc8d9771
+run_name: classy-hog-236
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754674965945
+status: 3
+tags: []
+user_id: anura
